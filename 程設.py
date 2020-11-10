@@ -1,4 +1,4 @@
-#display two messager
+ #display two messager
 print('learning python now')
 print('python is fun')
 #convert Fahrenheit to Celsius
@@ -91,31 +91,31 @@ a//=3
 a%=6
 print(a)
 #3-3
-#s=eval(input('please enter an integer:'))
-#print(s)
-#s2=input('please enter a string:')
-#print(s2)
-#str2=input('please enter an integer:')
-#num=int(str2)+100
-#str2=eval(input('please enter an integer:'))
-#num=str2+100
-#print(num)
-#num1=eval(input('please enter number1:'))
-#num2=eval(input('please enter number2:'))
-#print(num1+num2)
-#num1,mun2=eval(input('please enter tow number separated by comma:'))
-#print(num1+num2)
+s=eval(input('please enter an integer:'))
+print(s)
+s2=input('please enter a string:')
+print(s2)
+str2=input('please enter an integer:')
+num=int(str2)+100
+str2=eval(input('please enter an integer:'))
+num=str2+100
+print(num)
+num1=eval(input('please enter number1:'))
+num2=eval(input('please enter number2:'))
+print(num1+num2)
+num1,mun2=eval(input('please enter tow number separated by comma:'))
+print(num1+num2)
 #3-4
-#num1,num2,num3=eval(input('enter three number separated by comma:'))
-#print('total=',num1+num2+num3)               
-#print('average=',(num1+num2+num3)/3)
-#radius=eval(input('enter the radius:'))
-#print('area=',radius*radius*3.14159)
-#print('perimeter=',2*radius*3.14159)
-#import math
-#radius=eval(input('enter the radius:'))
-#print('area=',radius*radius*math.pi)
-#print('perimeter=',2*radius*math.pi)
+num1,num2,num3=eval(input('enter three number separated by comma:'))
+print('total=',num1+num2+num3)               
+print('average=',(num1+num2+num3)/3)
+radius=eval(input('enter the radius:'))
+print('area=',radius*radius*3.14159)
+print('perimeter=',2*radius*3.14159)
+import math
+radius=eval(input('enter the radius:'))
+print('area=',radius*radius*math.pi)
+print('perimeter=',2*radius*math.pi)
 #3-5
 '''
 this prigram display learning python now!
